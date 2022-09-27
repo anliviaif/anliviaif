@@ -1,7 +1,7 @@
-- 🌼 oiie, eu sou @anliviaif
+- 🌼 oiie, eu sou @anliviaif.
 - 👀 Estou interessada em crescer no mundo da programação!
-- 🌱 Atualmente estou aprendendo Python!
-- 💞️ Procuro colaborar em vários projetos 
+- 🌱 Atualmente, estou aprendendo Python!
+- 💞️ Procuro colaborar em vários projetos! 
 - 📫 Contatos -> ig: liviaif
 
 <!---
